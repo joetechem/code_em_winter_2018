@@ -1,3 +1,4 @@
+# Simulate a Plucked Guitar String!  
 # Create Frequency Overtones with Python  
 
 A small walkthrough on how to generate musical overtones with the Karplus-Strong algorithm.  
