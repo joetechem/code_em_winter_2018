@@ -316,10 +316,27 @@ def main():
                 exit()
 ```  
 
+# Run the Plucked String Simulation  
+
+To run the code, open a terminal window and enter the command below:  
+
+```bash  
+$ python ks.py --display  
+```  
+
+You should get a window that pops up with the `matplotlib` plot shoing the Karplus-String algorithm that converts the initial random displacements to create the frequency waves.  
+
 <center>  
 
 ![simulate pluck](images/plucked_string_simulation.jpg)
 </center>  
+
+You can also try playing a random note sequence using the generated WAV files of the pentatonic musical scale by entering:  
+
+```bash  
+$ python ks.py --play
+```  
+
 
 
 
