@@ -52,5 +52,34 @@ Include but are not limited to:
 **Java**  
 * Create your own library of Minecraft Mods  
 
+***  
 
+# Start Projects  
+
+Since there are returning students (from previous Code Em sessions, or other Tech Em classes/camps) as well as new students (with *new* programming experience), we will break up the class into *two* groups.  
+
+## Minecraft Pi Server Project  
+
+**Returning Code Em students** will work first work on a project of their choice: the tentative project of generating a minecraft server on a Raspberry Pi.  
+
+## Python Turtle Calculator  
+
+**New students (new to Code Em)** will work on a mini project (should take a couple days): Create a simple calculator program in Python with the end goal of using Python's `turtle` to *draw* out the answer. This will help new students get a good foundation in computer science and programming before working on other projects.  
+
+# General Project Objectives  
+
+Every project needs a plan. To get the most out of each project we will *loosely* follow the objective list below.  
+
+Objectives:  
+* Create an outline of the project plan  
+    - map out what the goal is and how to get there  
+
+* Document the project  
+    - Detail all the steps taken throughout the project in blog-form  
+    - Treat the blog as a tutorial, so that others can take the same steps and achieve the same result  
+    - Take pictures to help document the steps  
+
+Documenting your projects as you work on them will help you understand what you are doing, where you are in the process, and help validate the project. The key is to document your projects so that others can learn what you did and follow your steps to get the same result.  
+
+***  
 
