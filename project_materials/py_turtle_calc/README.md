@@ -314,7 +314,9 @@ calc(int(raw_input("Give me a number:   ")),                            # number
      )
 ```  
 
-Explore on your own how to have the output display something different each time by asking the user's input for more parmeters like, background color, text size, etc.  
+Now add a parameter to your function to take a background color argument.  
+
+Explore on your own how to have the output display something different each time by asking the user's input for more parmeters like, background color, text size, etc.
 
 
 
