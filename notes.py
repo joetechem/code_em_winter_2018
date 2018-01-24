@@ -44,6 +44,8 @@ After Class Notes
 # 1/23/18 Class 3  
         # 3 students (Tyler, Matty, Travis) --> icebreaker: Python Turtle Calc mini project
                 # finished python loop intro via turtle module
+                # Created first git repo for project
+                # queued first changes; minor issue with pushing the updates
 
         # Taixi & Matthew --> continue work on minecraft pi server project
 
