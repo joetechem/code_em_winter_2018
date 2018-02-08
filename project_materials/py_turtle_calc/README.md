@@ -237,6 +237,10 @@ Again, we made the function more general, we can use it across more situations t
 
 `square(albert, 50)`  
 
+#### Challenge  
+
+Edit the function to now have *angle* as a parameter.  
+
 ***  
 
 ## Merging  
