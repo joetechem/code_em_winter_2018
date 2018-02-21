@@ -56,3 +56,11 @@ After Class Notes
                 # worked on design sketches with Alex (mentor/intern)
 
         # Anaya --> 2nd no-show  
+
+# 1/30/18 Class 4  
+
+
+# 2/6/2018 Class 5
+
+
+# 2/13/2018 Class 6  
