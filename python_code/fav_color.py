@@ -32,7 +32,9 @@ while Questions:
 		print("That is my favorite color!")
 		raw_input("\n\nPress the enter key to exit")
 		Questions = False
+		exit()
 		
+		# The program will close with exit()
 """
 	Below is the same program with descriptive comments.
 	

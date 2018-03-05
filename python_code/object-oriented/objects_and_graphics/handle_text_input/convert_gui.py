@@ -41,7 +41,6 @@ def main():
     # Display the output and exit
     win.getMouse()
     win.close()
-
     
 
 main()
