@@ -22,4 +22,3 @@ while True:
     command = raw_input('\nsirexa -> ')
     response = handle_command(command)
     print response
-
